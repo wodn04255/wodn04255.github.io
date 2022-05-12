@@ -35,7 +35,7 @@
     <li><a href="http://jsptogo.herokuapp.com/12/basicSemanticMember1.html">회원가입</a></li>
     <li>사이트맵</li>
    </ul>
-  <img src="../wp/scene.png"alt="히말라야"/>
+  <img src="wp/scene.png"alt="히말라야"/>
 </header>
  <nav>
   <ul>
@@ -59,9 +59,9 @@
      대한 사람 대한으로 길이 보전하세</p>
   <h4>만세로 교통상황</h4>
     <video id="traffic" controls="controls">
-    <source src="../media/traffic.mp4" type="video/mp4">
-    <source src="../media/boom.ogg" type="video/ogg">
-    <source src="../media/boom.webm" type="video/webm">
+    <source src="media/traffic.mp4" type="video/mp4">
+    <source src="media/boom.ogg" type="video/ogg">
+    <source src="media/boom.webm" type="video/webm">
          브라우저가 지원하지 않거나 비디오 향식의 파일이 존재하지 않습니다!!!
   </video><hr/>
   </section>
